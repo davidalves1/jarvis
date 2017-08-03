@@ -1,2 +1,2 @@
 # jarvis
-My Telegram personal assist
+My Telegram personal assistant
